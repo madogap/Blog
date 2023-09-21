@@ -1,5 +1,7 @@
 # Blog
 
+Bem-vindo ao repositório do Blog Pessoal em Angular 15! Este é um emocionante projeto de desenvolvimento de um blog pessoal. Aqui, você encontrará tudo o que precisa para criar e gerenciar seu próprio blog, compartilhando suas histórias, pensamentos e conhecimentos com o mundo.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.4.
 
 ## Development server
